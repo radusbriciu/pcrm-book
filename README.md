@@ -42,8 +42,8 @@ expense of consulting investment management clients and subsequently potentially
 making it freely available online. Hence, you are encouraged to support it by the
 amount that you feel it is worth to you.
 
-If you happen to be among top 10 contributors by the time the book is made publicly
-available, you will get three months personal access to an institutional-grade
+If you happen to be among top 10 contributors by the time the book is finished
+sometime in Q1 2025, you will get three months personal access to an institutional-grade
 implementation of the framework from this book to really test out your newly
 acquired knowledge.
 
