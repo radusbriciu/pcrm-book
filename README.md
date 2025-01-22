@@ -37,8 +37,8 @@ the project receives, the more time I can spend on it, and the better it will be
 Besides your personal monetary support, you can help accelerate the process and
 improve the quality by simply publicly sharing your positive experience with the
 book and the code, and thereby encourage more people to support the project. You
-are also encouraged to give this and 
-[the supporting fortitudo.tech](https://github.com/fortitudo-tech/fortitudo.tech)
+are also encouraged to give this and the supporting
+[fortitudo.tech](https://github.com/fortitudo-tech/fortitudo.tech)
 repository a star.
 
 No matter how much economic support this project realistically gets, it will only
@@ -56,9 +56,13 @@ perks, you can choose to be recognized in the book's preface as someone who has
 significantly contributed to the creation of this book. You will additionally get
 a one-year paid complimentary Substack subscription to the
 [Quantamental Investing publication](https://antonvorobets.substack.com), which will
-contain exclusive case studies.
+contain exclusive case studies and allow you to continue asking questions.
 
 # Licenses
-The Portfolio Construction and Risk Management book © 2025 by Anton Vorobets is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0/
+The Portfolio Construction and Risk Management book © 2025 by Anton Vorobets is licensed
+under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International. To view
+a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0/
 
-The accompanying code to the Portfolio Construction and Risk Management book © 2025 by Anton Vorobets is licensed under version 3 of the GNU General Public License. To view a copy of this license, visit https://www.gnu.org/licenses/gpl-3.0.en.html
+The accompanying code to the Portfolio Construction and Risk Management book © 2025 by
+Anton Vorobets is licensed under version 3 of the GNU General Public License. To view
+a copy of this license, visit https://www.gnu.org/licenses/gpl-3.0.en.html
