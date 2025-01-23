@@ -1,4 +1,4 @@
-# Accompanying code to the Portfolio Construction and Risk Management book
+# Accompanying Python code to the Portfolio Construction and Risk Management book
 This repository contains the accompanying code to Portfolio Construction and Risk
 Management book © 2025 by Anton Vorobets. You can find the latest PDF version of
 the book in [this Substack post](https://antonvorobets.substack.com/p/pcrm-book).
@@ -31,12 +31,11 @@ perspectives on what it tries to achieve, and which kind feedback will
 be considered appropriate.
 
 # Thank you for your support
-Your support makes it possible for this book to be written. The more support
-the project receives, the more time I can spend on it, and the better it will be.
+Your support made it possible for this book to be written.
 
-Besides your personal monetary support, you can help accelerate the process and
-improve the quality by simply publicly sharing your positive experience with the
-book and the code, and thereby encourage more people to support the project. You
+Besides your personal monetary support, you can help improve the quality of the
+book by simply publicly sharing your positive experience with the book and its code,
+thereby encouraging more people to support the project. You
 are also encouraged to give this and the supporting
 [fortitudo.tech](https://github.com/fortitudo-tech/fortitudo.tech)
 repository a star.
