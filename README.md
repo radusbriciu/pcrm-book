@@ -1,7 +1,7 @@
-# Accompanying Python code to the Portfolio Construction and Risk Management book
+# Portfolio Construction and Risk Management book's Python code
 This repository contains the accompanying code to Portfolio Construction and Risk
-Management book © 2025 by Anton Vorobets. You can find the latest PDF version of
-the book in [this Substack post](https://antonvorobets.substack.com/p/pcrm-book).
+Management book © 2025 by Anton Vorobets. [You can find the latest PDF version of
+the book in this Substack post](https://antonvorobets.substack.com/p/pcrm-book).
 
 If you want to support this project and potentially get perks and recognition
 for it, see the [crowdfunding campaign](https://igg.me/at/pcrm-book).
@@ -45,17 +45,10 @@ be a small fraction of the opportunity costs from writing the book and making it
 freely available online. Hence, you are encouraged to support it by the amount that
 you think it is worth to you.
 
-If you happen to be among top 10 contributors by 11:59 PM (GMT-8) February 2, 2025,
-you will get three months personal access to an institutional-grade implementation
-of the investment framework from this book to really test out your newly acquired
-knowledge.
-
-If you are among the top 10 contributors or claim one of the campaign contributor
-perks, you can choose to be recognized in the book's preface as someone who has
-significantly contributed to the creation of this book. You will additionally get
-a one-year paid complimentary Substack subscription to the
-[Quantamental Investing publication](https://antonvorobets.substack.com), which will
-contain exclusive case studies and allow you to continue asking questions.
+If you claim one of the significiant contributor perks, you can choose to be recognized
+in the book's preface. You will additionally get a one-year paid complimentary Substack
+subscription to the [Quantamental Investing publication](https://antonvorobets.substack.com),
+which will contain exclusive case studies and allow you to continue asking questions.
 
 # Licenses
 The Portfolio Construction and Risk Management book © 2025 by Anton Vorobets is licensed
