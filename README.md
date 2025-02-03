@@ -45,9 +45,9 @@ be a small fraction of the opportunity costs from writing the book and making it
 freely available online. Hence, you are encouraged to support it by the amount that
 you think it is worth to you.
 
-If you claim one of the significiant contributor perks, you can choose to be recognized
-in the book's preface. You will additionally get a one-year paid complimentary Substack
-subscription to the [Quantamental Investing publication](https://antonvorobets.substack.com),
+[If you claim one of the significiant contributor perks](https://igg.me/at/pcrm-book),
+you can choose to be recognized in the book's preface. You will additionally get a one-year
+paid complimentary Substack subscription to the [Quantamental Investing publication](https://antonvorobets.substack.com),
 which will contain exclusive case studies and allow you to continue asking questions.
 
 # Licenses
