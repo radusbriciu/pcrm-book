@@ -1,5 +1,5 @@
 # Portfolio Construction and Risk Management book's Python code
-This repository contains the accompanying code to Portfolio Construction and Risk
+This folder contains the accompanying code to Portfolio Construction and Risk
 Management book © 2025 by Anton Vorobets. [You can find the latest PDF version of
 the book in this Substack post](https://antonvorobets.substack.com/p/pcrm-book).
 
@@ -24,12 +24,6 @@ instance using the following commands:
 If you are completely new to [conda environments](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
 and Jupyter notebooks, you can find a lot of information online.
 
-# Feedback
-Please post your feedback in the community Discussions forum. I will try to
-incorporate the feedback in the book. See the book's preface for some general
-perspectives on what it tries to achieve, and which kind feedback will
-be considered appropriate.
-
 # Thank you for your support
 Your support made it possible for this book to be written.
 
@@ -49,12 +43,3 @@ you think it is worth to you.
 you can choose to be recognized in the book's preface. You will additionally get a one-year
 paid complimentary Substack subscription to the [Quantamental Investing publication](https://antonvorobets.substack.com),
 which will contain exclusive case studies and allow you to continue asking questions.
-
-# Licenses
-The Portfolio Construction and Risk Management book © 2025 by Anton Vorobets is licensed
-under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International. To view
-a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0/
-
-The accompanying code to the Portfolio Construction and Risk Management book © 2025 by
-Anton Vorobets is licensed under version 3 of the GNU General Public License. To view
-a copy of this license, visit https://www.gnu.org/licenses/gpl-3.0.en.html
